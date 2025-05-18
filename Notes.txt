@@ -1,0 +1,1 @@
+Agar tidak terjadi error saat menjalankan webnya maka terlebih dahulu membuat folder uploads
