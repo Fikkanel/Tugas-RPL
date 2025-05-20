@@ -41,14 +41,14 @@ http://localhost/Tugas-RPL-PHP-Native/
 ```
 ---
 ### 🛠️ Teknologi yang Digunakan
-🐘 PHP Native
-🎨 Bootstrap 5
-💾 MySQL (phpMyAdmin)
-🌐 HTML5, CSS3
+- 🐘 PHP Native
+- 🎨 Bootstrap 5
+- 💾 MySQL (phpMyAdmin)
+- 🌐 HTML5, CSS3
 
 ---
 ### 📌 Catatan
-Semua tampilan menggunakan komponen Bootstrap seperti form, table, dan tombol.
-Pastikan file db.php disesuaikan dengan konfigurasi server kamu.
-Validasi form sederhana dilakukan menggunakan HTML dan PHP.
+- Semua tampilan menggunakan komponen Bootstrap seperti form, table, dan tombol.
+- Pastikan file db.php disesuaikan dengan konfigurasi server kamu.
+- Validasi form sederhana dilakukan menggunakan HTML dan PHP.
 
