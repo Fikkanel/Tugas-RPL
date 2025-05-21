@@ -52,3 +52,12 @@ http://localhost/Tugas-RPL-PHP-Native/
 - Pastikan file db.php disesuaikan dengan konfigurasi server kamu.
 - Validasi form sederhana dilakukan menggunakan HTML dan PHP.
 
+---
+### 🖼️ Preview Antarmuka
+| Halaman   | Tampilan                                                             |
+| --------- | -------------------------------------------------------------------- |
+| Dashboard | ![Index Page](https://via.placeholder.com/300x150?text=Index+Page)   |
+| Tambah    | ![Create Page](https://via.placeholder.com/300x150?text=Create+Page) |
+| Detail    | ![Show Page](https://via.placeholder.com/300x150?text=Show+Page)     |
+
+
